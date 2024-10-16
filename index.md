@@ -25,6 +25,8 @@ We encourage any and all feedback, whether it's training on how to use the tools
 
 This is the home mapping tool designed to assist the **Moraine Watch** program.  The intention of this map is to provide many interactive resources to concerned citizens who are concerned with land use changes occurring atop the Oak Ridges Moraine.
 
+![morainewatch-qr](assets/img/QR-morainewatch.png)
+
 <br>
 
 
